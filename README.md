@@ -1,7 +1,7 @@
 ### Hi there, My name is Mulyono Putra 👋
 
 Welcome to my personal repository.
-This is a repository for research and experiment documentation.
+This is a repository only for research and experiment documentation.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulyonoPutra&layout=compact)](https://github.com/MulyonoPutra/github-readme-stats)
