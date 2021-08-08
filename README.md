@@ -1,6 +1,7 @@
 ### Hi there, My name is Mulyono Putra 👋
 
-Welcome to my personal repository
+Welcome to my personal repository.
+This is a repository for learning materials and experiments.
 
 <!--
 **MulyonoPutra/MulyonoPutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
