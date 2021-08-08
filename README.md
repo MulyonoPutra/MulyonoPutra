@@ -4,7 +4,9 @@ Welcome to my personal repository.
 This is a repository only for research and experiment documentation.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulyonoPutra&layout=compact)](https://github.com/MulyonoPutra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MulyonoPutra&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulyonoPutra&layout=compact)](https://github.com/MulyonoPutra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MulyonoPutra&show_icons=true&theme=tokyonight)
 
 
 
