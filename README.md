@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=yMulyonoPutra)
-
 ### Hi there, My name is Mulyono Putra 👋
 
 Welcome to my personal repository.
