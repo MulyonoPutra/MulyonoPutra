@@ -4,7 +4,8 @@ Welcome to my personal repository.
 This is a repository for research and experiment documentation.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulyonoPutra&exclude_repo=github-readme-stats,MulyonoPutra.github.io)](https://github.com/MulyonoPutra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulyonoPutra&layout=compact)](https://github.com/MulyonoPutra/github-readme-stats)
+
 
 <!--
 **MulyonoPutra/MulyonoPutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
