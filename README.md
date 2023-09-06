@@ -1,13 +1,13 @@
 ### <div align="center">I'm Mulyono Putra, a full-time Frontend Developer 👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently learning MERN Stack  
+- 🌱 I’m currently focusing in Angular
   
 
 - ❓ Ask me about anything related to Angular, MERN stack and related technologies  
   
 
-- *⚡ Fun fact: I am really love programming? I don't think so.*  
+- *⚡ I am really love programming? I don't think so.*  
   
 
 <br/>  
